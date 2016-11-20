@@ -24,7 +24,7 @@ app = Flask(__name__)
 if __name__ == "__main__":
     app.run()
 
-@app.route('/all_items')
+@app.route('/display_items', methods=['GET'])
 def all_display_items():
     return flask.jsonify(**DisplayItem.all(Conf.db))
 
@@ -35,4 +35,3 @@ def get_collection(major, minor):
         beacon_major_id=int(major), beacon_minor_id=int(minor)
     )
     return flask.jsonify(**item.json)
-
