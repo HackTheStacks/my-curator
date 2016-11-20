@@ -5,6 +5,8 @@ import os
 from model import (
     Collection, 
     Configuration, 
+    DisplayItem, 
+    MediaResource, 
     production_session,
 )
 
@@ -86,6 +88,12 @@ class Script(object):
         data = open(path).read()
         dict_data = json.loads(data)
 
+        collections = dict_data['collections']
+        coll_1 = Collection()
+        coll_1.name = collections[0]['name']
+        coll_1.curator = collections[0]['curator']
+        display_items = collections[0]['display_items']
+        db.commit()
 
         print "hi"
 
