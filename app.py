@@ -1,4 +1,7 @@
 import flask
+from flask import Flask
+from flask.ext.heroku import Heroku
+from flask.ext.sqlalchemy import SQLAlchemy
 from model import (
     get_one,
     Configuration,
@@ -13,7 +16,9 @@ class Conf(object):
 
 Conf = Conf()
 
-from flask import Flask
+#app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://localhost/pre-registration'
+heroku = Heroku(app)
+
 app = Flask(__name__)
 
 if __name__ == "__main__":
