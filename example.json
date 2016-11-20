@@ -1,0 +1,61 @@
+{
+  "collections" : [
+    {
+      "name" : "Central Asiatic Expeditions",
+      "curator" : "Becca",
+      "display_items" : [
+        {
+          "title" : "American Flag from Central Asiatic Expedition",
+          "cover_image" : "http://images.library.amnh.org/digital/files/original/6615b3ec15600bbef25d5c3908a43b33.jpg",
+          "beacon_major_id" : "65370",
+          "beacon_minor_id" : "49339",
+          "media_resources" : [
+            {
+              "title" : "The New Conquest of Central Asia",
+              "snippet" : "Through partnership with the Biodiversity Heritage Library and Archive.org, the logs of the expedition book is available for download as a PDF.",
+              "direct_url" : "http://www.archive.org/download/newconquestofcen00andr/newconquestofcen00andr.pdf",
+              "description" : "The new conquest of central Asia : a narrative of the explorations of the Central Asiatic expeditions in Mongolia and China, 1921-1930"
+            },
+            {
+              "title" : "Andrews, Roy Chapman, Dr.",
+              "snippet" : "Dr. Roy Chapman led the Central Asiatic Expeditions which produced major discoveries, including skeletons of the extinct rhinoceros Indricotherium (originally named Baluchitherium), the oldest and largest land mammals known at that time; and the first recognized finding of dinosaur eggs. After beginning his career at the Museum as a volunteer janitor and assistant, Chapman eventually became Director of the Museum.",
+              "direct_url" : "http://data.library.amnh.org:8082/orbeon/xeac/id/amnhp_1000042",
+              "description" : "Roy Chapman Andrews was an explorer, paleontologist, and a well-known figure at the American Museum of Natural History. Born in Beloit, Wisconsin on January 26, 1884 to Cora Chapman and Charles Ezra Andrews, he enjoyed hunting and the study of nature. He taught himself taxidermy and, being the only taxidermist in the Beloit area, provided preparation and mounting services for local hunters. (1) After graduating from Beloit College in 1906 with a B.A., Andrews sought a career at AMNH, but there were no positions available. He volunteered to work at the museum as a janitor and assistant to James L. Clark and was hired July 16, 1906. His taxidermy skills were quickly recognized and by 1908 he was able to convince the AMNH director, H.C. Bumpus to allow him to collect specimens in the field. (2)\n\nFrom 1910 to 1914 Chapman went on expeditions to Alaska, Japan and Korea, including an expedition from 1909-1910 as a Special Naturalist on the U.S.S. Albatross on a voyage to Dutch East Indies, Borneo, and Celebes. From 1911 to 1917 he was the assistant curator of Mammalogy and during that time he continued his education at Columbia University. Andrews  earned his Master of Arts in Mammalogy in 1913. That year he was also member of the Borden Alaska Expedition as leader and photographer. From 1918 to 1923 he became the assistant curator of Mammals Eastern Hemisphere.\n\nAndrews’ is most famous for his three Asiatic Zoological Expeditions.  In both 1916 and 1918 he led short scientific collecting expeditions into regions of China and the Gobi Desert.  These would prove to be preparatory for the third and largest expedition which occurred from 1921 to 1930 and explored the Gobi Desert of Mongolia and China in depth.  The name was changed in 1926 to the Central Asiatic Expeditions, and this name is generally used collectively for all Andrews’ Asiatic work. During this time he was appointed Curator-in-chief of Division IV, Asiatic Explorations and Research (the title changed to Curator in Dept. of Asiatic Exploration and Research). These expeditions produced major discoveries, including skeletons of the extinct rhinoceros Indricotherium (originally named Baluchitherium), the oldest and largest land mammals known at that time; and the first recognized finding of dinosaur eggs. (3) Andrews' first wife, Yvette Borup, traveled with him and photographed many of his early expeditions. In 1931 Andrews was named Vice-Director in charge of Exploration and research in the Administrative and Scientific branches of the Museum. In March 1934, when his friend and colleague Dr. Sherwood became ill and could no longer continue as director for the Museum, Andrews was named Acting Director. The title was officially changed to Director of the museum in 1935. Andrews served as the director until his resignation in 1941.\n\nAlong with his travels, Chapman gave hundreds for lectures, was the member of numerous scientific societies, and was presented with several awards for his achievements in the scientific community. September 5, 1935 Chapman was awarded the first significant Sig Medal ever awarded by Sigma Chi Fraternity. That same year on November 26th he was awarded the Charles P. Daly Medal for the year 1935 by the American Geographical Society. Chapman wrote several books including two autobiographies “Under a Lucky Star” and “An Explorer Comes Home” and many articles. Andrews married Yvette Borup in 1914. With Yvette he had two sons, George Borup and Roy Kevin. They divorced in 1931 and Chapman remarried to Wilhelmina “Billie” Christmas February 21, 1935. Chapman died March 11, 1960 in Carmel, California."
+            },
+            {
+              "title" : "Expedition Photography",
+              "description" : "The Central Asiatic Expeditions collection consists of photographs taken over the course of five expedition seasons sponsored by the museum exploring Mongolia, especially areas in the Gobi Desert. The expeditions were led by Roy Chapman Andrews a well-known explorer, naturalist and paleontologist.\n\nThe photographs taken in 1922, 1925 and 1928 (seasons 1, 3 and 4) were taken by James B. Shackelford. An expert in handling the Akeley camera, Shackelford produced footage and photographs of the Expedition during these years. It’s unclear who the photographers are for the rest of the collection’s images; they are officially attributed to Andrews but as he is a subject in many of them this is unlikely.\n\nThe photos show the Mongol people the expedition encountered as well as photographs of landscapes, expedition camps, camel and motor caravans, religious structures and fossil sites.",
+              "direct_url" : "http://images.library.amnh.org/digital/items/browse?collection=10",
+              "snippet" : "More than 300 photos from the Central Asiatic Expeditions are available in the Digital Collections, detailing the many new adventures of the journey."
+            }
+            {
+              "title" : "Fossil Hunting in the Gobi 360",
+              "description" : "Legendary fossil hunter Roy Chapman Andrews first ventured to the region in the 1920s, leading a series of expeditions that would go down in the annals of paleontology and pop culture alike. Alongside colleagues like Henry Fairfield Osborn and Walter Granger, he not only discovered new species of fossil mammals and dinosaurs, but also unearthed the first clutch of dinosaur eggs in 1923.",
+              "direct_url" : "https://youtu.be/HDdqd8c_-hY",
+              "snippet" : "It’s been nearly a century since the Museum began their explorations of Mongolia’s Gobi Desert—a vast and imposing landscape that occupies an unparalleled space in the scientific record."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "Black Bears - North American Mammals",
+      "curator" : "Mai",
+      "display_items" : [
+        {
+          "title" : "",
+          "cover_image" : "",
+          "beacon_major_id" : "48448",
+          "beacon_minor_id" : "18544",
+          "media_resources" : [
+            {
+              "name" : "",
+              ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+
+}
